@@ -66,7 +66,7 @@ class ChangeCredentials extends Component {
                             <Input onChangeText={(value) => { this.handle(value, "LastName") }} />
                         </Item>
                         <Item style={{marginTop:0 , marginBottom:0}} floatingLabel>
-                            <Label>Enter Your Email</Label>
+                            <Label>Enters Your Email</Label>
                             <Input onChangeText={(value) => { this.handle(value, "Email") }} />
                         </Item>
                         <Item style={{marginTop:0 , marginBottom:0}} floatingLabel>
