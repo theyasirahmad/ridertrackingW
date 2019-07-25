@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "647259182918",
+    "firebase_url": "https://ridertracking.firebaseio.com",
+    "project_id": "ridertracking",
+    "storage_bucket": "ridertracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647259182918:android:bbfde1873984e03d",
+        "android_client_info": {
+          "package_name": "com.novasoft.ridertracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647259182918-f7gbvg6104832ev0n6gf0v6thv54et9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-_l437ryWiv7ple8J0Mc99wabeuwP4aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647259182918-f7gbvg6104832ev0n6gf0v6thv54et9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647259182918:android:60f11b8ecae17e54",
+        "android_client_info": {
+          "package_name": "com.novasoft.wwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647259182918-f7gbvg6104832ev0n6gf0v6thv54et9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-_l437ryWiv7ple8J0Mc99wabeuwP4aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647259182918-f7gbvg6104832ev0n6gf0v6thv54et9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
